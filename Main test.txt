@@ -1,0 +1,7 @@
+Tips on Merge,
+SO essentially, check out a branch, means to take it and start working on one of those branch nodes
+commit local changes to the local branch.
+then, once you're done, merge it to the develop or main, in order to get a version that is full of all the other stuff
+then push to the stable main later.
+
+that connects the branch, and allows you to push changes to the remote main.
